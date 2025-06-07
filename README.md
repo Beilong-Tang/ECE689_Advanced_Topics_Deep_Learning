@@ -1,4 +1,4 @@
 # ECE689_Advanced_Topics_Deep_Learning
 
 
-This repository contains hwss for ECE689_Advanced_Topics_Deep_Learning
+This repository contains homeworks for ECE689_Advanced_Topics_Deep_Learning.
